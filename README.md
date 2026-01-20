@@ -2,9 +2,6 @@
 
 A price tracking dashboard that monitors product prices across websites and alerts on changes.
 
-![Python](https://img.shields.io/badge/Python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green)
-![Next.js](https://img.shields.io/badge/Next.js-14-black)
 
 ## ✨ Features
 
@@ -14,21 +11,7 @@ A price tracking dashboard that monitors product prices across websites and aler
 - 📉 Lowest/highest price tracking
 - 🌙 Dark/Light mode
 
-## 🚀 Getting Started
 
-### Backend
-```bash
-cd backend
-pip install -r requirements.txt
-uvicorn main:app --reload
-```
-
-### Frontend
-```bash
-cd frontend
-npm install
-npm run dev
-```
 
 ## 🛠 Tech Stack
 
